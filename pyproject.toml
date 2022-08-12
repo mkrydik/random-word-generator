@@ -24,5 +24,3 @@ build-backend = "poetry.core.masonry.api"
 [tool.black]
 # .flake8 の設定と合わせておく
 line-length = 140
-# シングルクォートを使うのでスキップしておく
-skip-string-normalization = true
